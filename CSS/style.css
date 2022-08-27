@@ -107,15 +107,4 @@ li a:hover{
     margin-top: 5px;
    font-weight: bolder;
 }
-@media(min-width: 414px){
-    .container{
-        width: 100%;
-        height: auto;
-    }
-    .card_container{
-        grid-template-columns: auto auto auto;
-    }
-    .main_text{
-        right: 20%;
-    }
-}
+
